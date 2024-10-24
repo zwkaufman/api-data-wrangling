@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 .csv
+los_angeles_weather.csv
+new_york_weather.csv
